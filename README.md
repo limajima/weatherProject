@@ -1,6 +1,6 @@
 # weatherProject
 
-Simple Weather conditions in a city
+Simple Weather conditions in a city using javascript and API from https://openweathermap.org/weather-conditions
 
 extract node_modules.rar 1st
 
